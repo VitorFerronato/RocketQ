@@ -4,13 +4,13 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="500px">
 </p>
 
-## 💻 Projeto
+## 💻 The project
 
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+Rocket.Q is an interaction application through questions, making it possible to create a room for anonymous internet users to ask questions and the creator of the room, in possession of a password, manage these questions and mark them as read.
  
-## 🚀 Tecnologias
+## 🚀 technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
